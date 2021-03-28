@@ -1,7 +1,7 @@
 # to.do
 ## Primeiro desafio da trilha de ReactJS
 
-📷 Veja o Projeto
+### 📷 Veja o Projeto
 <div align="center">
 
   ![gif do projeto](https://github.com/caiov13/desafio-conceitos-react/blob/main/github/todo.gif)
