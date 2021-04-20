@@ -1,5 +1,5 @@
 # to.do
-## Primeiro desafio da trilha de ReactJS
+### Primeiro desafio da trilha de ReactJS do curso Ignite
 
 ### 📷 Veja o Projeto
 <div align="center">
